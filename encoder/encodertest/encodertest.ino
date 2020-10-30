@@ -42,6 +42,6 @@ long newtime_data = micros();
     Serial.println(newPosition);
     Serial.println(newtime_data);
     }
-delay(20);
+delay(21);
     
 }
